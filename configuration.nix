@@ -43,6 +43,8 @@
     wget
     btop
     curl
+    neofetch
+    git
   ];
 
   services.openssh.enable = false;
